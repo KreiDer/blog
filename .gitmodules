@@ -1,0 +1,3 @@
+[submodule "kreider.github.io"]
+	path = kreider.github.io
+	url = https://github.com/KreiDer/kreider.github.io.git
